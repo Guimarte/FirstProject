@@ -111,7 +111,7 @@ description:'Corrida no Parque'
          <MyCards data={cards} />
         </Container>
       </main>
-     
+     <Footer />
     </>
   );
 }
